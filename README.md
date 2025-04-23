@@ -24,6 +24,6 @@ Aplicação para delivery de comida.
 
 - Pesquisar GitHub Actions
 
-## Instalar o Node do projeto
+## Instalar o Node do projeto 
 
 npm install
