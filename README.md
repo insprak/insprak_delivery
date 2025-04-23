@@ -23,3 +23,7 @@ Aplicação para delivery de comida.
 ## Instalar o plugin GitHub Actions para VSCode
 
 - Pesquisar GitHub Actions
+
+## Instalar o Node do projeto
+
+npm install
