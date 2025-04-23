@@ -4,7 +4,7 @@
   "description": "Aplicação para delivery de comida.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
