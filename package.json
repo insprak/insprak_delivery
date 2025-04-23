@@ -1,0 +1,22 @@
+{
+  "name": "insprak_delivery",
+  "version": "1.0.0",
+  "description": "Aplicação para delivery de comida.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insprak/insprak_delivery.git"
+  },
+  "keywords": [
+    "delivery"
+  ],
+  "author": "Anne Caroline Rocha",
+  "license": "Veja a licença em LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/insprak/insprak_delivery/issues"
+  },
+  "homepage": "https://github.com/insprak/insprak_delivery#readme"
+}
