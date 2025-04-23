@@ -19,3 +19,7 @@ Aplicação para delivery de comida.
 ## Instalar o plugin SonarQube para VSCode
 
 - https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode
+
+## Instalar o plugin GitHub Actions para VSCode
+
+- Pesquisar GitHub Actions
