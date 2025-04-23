@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/insprak/insprak_delivery/issues"
   },
-  "homepage": "https://github.com/insprak/insprak_delivery#readme"
+  "homepage": "https://github.com/insprak/insprak_delivery#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
